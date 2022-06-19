@@ -1,19 +1,8 @@
 # CITS2200 Project 2022
 
-This project is marked out of 40, and is worth 20% of your final unit mark.
-
-You may work on this project individually or in pairs.
-
-## A Note on Academic Conduct
-
-While you are encouraged to do research to learn about data structures and algorithms, please remember that by university policy, anything you submit for assessment must be your own wholly original work.
-
-If you do refer to external sources, make sure to reference them in your work (a link is fine).
-Make sure that you do not (intentionally or unintentionally) copy any part of the source you are referring to into your submission.
-Every year we have a shocking rate of academic misconduct among project submissions, so be mindful to keep the work your own.
-
-Your objective in studying other sources should be to understand the reasoning behind their approach, and to then work from that understanding.
-If you are reading from a source and writing your solution at the same time, even with embellishments, that likely constitutes academic misconduct.
+This is my project solution for problems in CITS2200 project 2022. These are not the best solutions neither the answers for them, please use this resources as personal learning only and do not copy or recreate without credit. 
+Credit: Quang Khanh Hua (Henry) @khanhhua2102
+Attention: Use this with your own risk otherwise you will be responsible for academic misconduct!
 
 ## Project Structure
 
