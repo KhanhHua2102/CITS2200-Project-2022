@@ -51,14 +51,6 @@ Cargo/
   - `00_small` contains the "small" test cases.
   - `01_large` contains the "large" test cases.
 
-### Implementation
-
-You are expected to implement a solution to each problem.
-
-When implementing your solution you should only need to modify `CargoImpl.java`. You should not create or modify any other code files.
-
-You may import anything you desire from `java.util` or `java.lang`. You may ***not*** import anything from any other sources, including the `CITS2200` package.
-
 ### Compiling and Testing
 
 Once you have implemented your solution in `CargoImpl.java`, you can compile it and the test utility with:
@@ -101,67 +93,6 @@ The tester will report the status of each test case:
 : The test was not run
 
 By default the tester stops after the first test that does not pass. You can force it to run all tests regardless with `java CargoTester all`.
-
-### Explanation
-
-You must provide a written explanation of why your solution will give the correct answer, and of the time complexity of your solution.
-
-Note that there is no need to describe the step by step process of your algorithm, as the code already does that.
-Instead you should aim to write a logical argument sufficient to convince a fellow student (or a marker) that your solution will always give the correct answer.
-
-### Submission
-
-You must submit exactly two files (for each problem):
-
-`CargoExplanation.pdf`
-: A **PDF** of your explanation of your chosen solution
-
-`CargoImpl.java`
-: The Java source code of your completed implementation of your chosen solution
-
-Across all four problems you are therefore expected to submit eight files:
-- `CargoExplanation.pdf`
-- `CargoImpl.java`
-- `FinesExplanation.pdf`
-- `FinesImpl.java`
-- `ShallowsExplanation.pdf`
-- `ShallowsImpl.java`
-- `SubsidiariesExplanation.pdf`
-- `SubsidiariesImpl.java`
-
-Every file you submit as part of your project must include your full name(s) and student number(s).
-For PDFs, your name(s) and student numbers(s) should appear somewhere on the first page.
-For `.java` code files, the first line of the file should be of the form:
-```java
-// Full Name (StudentNum), Full Name (StudentNum)
-```
-For example, an individual submission may look like
-```java
-// Ada Lovelace (21234567)
-```
-and a pair pubmission may look like
-```java
-// Ada Lovelace (21234567), Charles Babbage (22345678)
-```
-If your files do not include your name(s) and student number(s), we may not be able to mark your project, as we may not know who submitted it.
-
-If you are working in a pair, only one of you should make a submission.
-
-### Marking
-
-Each problem is marked out of a total of 10 possible marks allocated according to the following rubric.
-Learning outcomes are as per the [Unit Details](https://handbooks.uwa.edu.au/unitdetails?code=CITS2200).
-
-| Criterion   | Basic                              | Proficient                          | Advanced                                 | Total | Outcomes |
-| ----------- | ---------------------------------- | ----------------------------------- | ---------------------------------------- | ----: | -------- |
-| Coding      | (+1) Compiles and runs             |                                     |                                          |    /1 | 3        |
-| Correctness | (+4) Passes almost all small tests | (+2) Passes all small test cases    |                                          |    /6 | 1, 3, 4  |
-| Efficiency  |                                    |                                     | (+1) Passes all large tests              |    /1 | 5, 6     |
-| Explanation |                                    | (+1) Some minor errors or omissions | (+1) Thorough and convincing explanation |    /2 | 2, 5, 6  |
-
-Note that since execution time may vary slightly between runs and between computers, code that passes in one case may exceed the time limit in another.
-If in doubt, your code must *reliably* run within the time limit on a CS lab computer to receive the marks.
-
 
 ## Problem Specifications
 
